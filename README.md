@@ -73,7 +73,7 @@ Algunas fórmulas utilizadas incluyen:
 - `KPI Resolución`:  
   Se asigna puntaje con pesos distintos a cada tipo de tiempo de resolución.
 
-🔧 El archivo PDF con todas las fórmulas DAX bien explicadas estará disponible próximamente.
+🔧 El archivo PDF con todas las fórmulas DAX bien explicadas.
 
 ---
 
